@@ -1,8 +1,7 @@
 # ИИ-ассистент для компании МореОстров
 
 Ссылка на проект - t.me/MoreOstrov_bot
-
-(https://github.com/JonyGAD/AI-assistant/blob/main/Telegram%20Web.png?raw=true)
+Савви-02-28-2025_08_20_PM.png
 
 ## Описание проекта
 
