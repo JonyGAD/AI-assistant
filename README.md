@@ -2,7 +2,7 @@
 
 Ссылка на проект - t.me/MoreOstrov_bot
 
-![Скриншот 1].(https://github.com/JonyGAD/AI-assistant/blob/main/%D0%A1%D0%B0%D0%B2%D0%B2%D0%B8-02-28-2025_08_20_PM.png?raw=true)
+[Telegram Web.png](https://github.com/JonyGAD/AI-assistant/blob/main/%D0%A1%D0%B0%D0%B2%D0%B2%D0%B8-02-28-2025_08_20_PM.png?raw=true)
 
 ## Описание проекта
 
