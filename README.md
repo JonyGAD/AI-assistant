@@ -2,6 +2,7 @@
 
 Ссылка на проект - t.me/MoreOstrov_bot
 
+![Скриншот 1].(https://github.com/JonyGAD/AI-assistant/blob/main/Google-%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C-%D0%9D%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-30-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-2025-02-28-2025_08_20_PM.png?raw=true)
 
 ## Описание проекта
 
